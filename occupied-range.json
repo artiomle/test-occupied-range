@@ -3,5 +3,6 @@
     "test-second-cidr-1676893876": "10.0.0.64/28",
     "test-artiom-3.13-1676897934": "10.0.0.80/28",
     "test-long-reason-for-frontend-testing-lets-see-how-it-behave-1676898651": "10.0.0.96/28",
-    "artiom%20test-1676899107": "10.0.0.112/28"
+    "artiom%20test-1676899107": "10.0.0.112/28",
+    "observer-automated_tenant_creation-artiom-test-json-1676920380": "10.0.0.128/26"
 }
