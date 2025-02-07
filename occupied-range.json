@@ -12,5 +12,6 @@
     "aasassasas-1677056289": "10.0.1.16/28",
     "test-new-linter-1738948205": "10.0.1.48/28",
     "artiom-test-new-1738948521": "10.0.1.64/28",
-    "test-subnets-allocation-1738948928": "10.0.1.128/26"
+    "test-subnets-allocation-1738948928": "10.0.1.128/26",
+    "test-overlaping-1738949745": "192.168.0.0/24"
 }
